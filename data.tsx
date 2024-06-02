@@ -21,16 +21,8 @@ export const socialNetworks = [
         logo: <Twitter size={30} strokeWidth={1} />,
         src: "#!",
     },
-    {
-        id: 5,
-        logo: <Rss size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 6,
-        logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
-    },
+    
+    
 ];
 
 
