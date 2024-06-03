@@ -27,11 +27,11 @@ export const CoverParticles = () => {
                         events: {
                             onClick: {
                                 enable: true,
-                                mode: "push",
+                                mode: "repulse", //change here
                             },
                             onHover: {
                                 enable: true,
-                                mode: "repulse",
+                                mode: "push",
                             },
                         },
                         modes: {
