@@ -154,8 +154,8 @@ export const dataPortfolio = [
         id: 1,
         title: "",
         image: "/image-1.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        urlGithub: "https://github.com/eldaniga/tic-tac-toe",
+        urlDemo: "https://eldanyga-tictactoe.netlify.app/",
     }
 ];
 
