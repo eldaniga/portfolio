@@ -152,7 +152,7 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "",
+        title: "TIC-TAC-TOE",
         image: "/image-1.jpg",
         urlGithub: "https://github.com/eldaniga/tic-tac-toe",
         urlDemo: "https://eldanyga-tictactoe.netlify.app/",
